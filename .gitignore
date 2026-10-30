@@ -1,0 +1,10 @@
+# 虚拟环境
+venv/
+# PyInstaller打包产物
+build/
+dist/
+*.spec
+# PyCharm（按需取舍，我建议不提交.idea）
+.idea/
+__pycache__/
+*.pyc
